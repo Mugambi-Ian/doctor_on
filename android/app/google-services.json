@@ -1,0 +1,121 @@
+{
+  "project_info": {
+    "project_number": "566679587901",
+    "project_id": "doctor--on--demand",
+    "storage_bucket": "doctor--on--demand.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566679587901:android:42b02af0773098f1a72e54",
+        "android_client_info": {
+          "package_name": "com.verynice.doctor_on_demand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566679587901-n98j5rj5arvino1bh38t2bh1o8t4ko5h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verynice.doctor_on_demand",
+            "certificate_hash": "1e044e212f6f30b4270b56a803df67c4774eb25d"
+          }
+        },
+        {
+          "client_id": "566679587901-rogoh9v6hg01dcl9ue6k2ofbin67e35r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTy7pe6NFOwHKSwU6uocjMRYPEphSFgqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566679587901-rogoh9v6hg01dcl9ue6k2ofbin67e35r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566679587901:android:7807e364001213eda72e54",
+        "android_client_info": {
+          "package_name": "com.verynice.dod_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566679587901-ajns08koh37spml9ib5ch08dl5k5lve7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verynice.dod_admin",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "566679587901-rogoh9v6hg01dcl9ue6k2ofbin67e35r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTy7pe6NFOwHKSwU6uocjMRYPEphSFgqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566679587901-rogoh9v6hg01dcl9ue6k2ofbin67e35r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566679587901:android:b5de4046bb1206e2a72e54",
+        "android_client_info": {
+          "package_name": "com.verynice.dod_client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566679587901-qmrppc7aphdevtjqul1ibs58nfq011be.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.verynice.dod_client",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "566679587901-rogoh9v6hg01dcl9ue6k2ofbin67e35r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTy7pe6NFOwHKSwU6uocjMRYPEphSFgqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566679587901-rogoh9v6hg01dcl9ue6k2ofbin67e35r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
